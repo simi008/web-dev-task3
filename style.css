@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Palette+Mosaic&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200&family=Roboto+Slab&display=swap');
+
+.head{
+    color: black;
+    font-size: 70px;
+    text-align: center;
+    font-family: 'Lobster', cursive;
+}
+
+.not{
+    color: black;
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Lobster', cursive;
+}
+
+.fae{
+    color: black;
+    font-size: 70px;
+    text-align: center;
+    font-family: 'Lobster', cursive;
+}
+
+.chr{
+    text-align: center;
+}
+
+.txt{
+    font-size:larger;
+    font-family:'Roboto Slab', serif;
+    
+}
+
